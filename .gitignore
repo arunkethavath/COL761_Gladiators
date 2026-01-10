@@ -1,0 +1,35 @@
+# Build / output files
+build/
+bin/
+out/
+*.o
+*.obj
+*.exe
+*.class
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*~
+
+# IDE / editor files
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug files
+*.dSYM/
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
